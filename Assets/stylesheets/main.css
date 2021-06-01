@@ -421,7 +421,7 @@ input[value="toggle-menu"]{
         width: 50%;
     }
 }
-@media (max-width:768px) {
+@media (max-width:320px) {
     #section_3 .row{
         display: block;
         margin: 0%;
