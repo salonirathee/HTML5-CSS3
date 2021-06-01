@@ -417,6 +417,10 @@ input[value="toggle-menu"]{
     cursor:pointer;
 }
 @media (max-width:768px) {
+    #section_3 .row{
+        margin: 0%;
+        padding: 0%;
+    }
     #section_3 .row .column{
         width: 50%;
     }
