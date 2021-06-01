@@ -173,7 +173,7 @@ input[value="toggle-menu"]{
 
 @keyframes slider {
     0% {
-        background-image: url("Assets/images/banner-1.jpg"); 
+        background-image: url("images/banner-1.jpg"); 
     }
     25%{
         background-image: url("Assets/images/banner-2.jpg");
