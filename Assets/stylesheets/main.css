@@ -173,19 +173,19 @@ input[value="toggle-menu"]{
 
 @keyframes slider {
     0% {
-        background-image: url("/images/banner-1.jpg"); 
+        background-image: url("/Assets/images/banner-1.jpg"); 
     }
     25%{
-        background-image: url("/images/banner-2.jpg");
+        background-image: url("/Assets/images/banner-2.jpg");
     }
     50% {
-        background-image: url("/images/banner-3.jpg");
+        background-image: url("/Assets/images/banner-3.jpg");
     }
     75% {
-        background-image: url("Assets/images/banner-4.jpg");
+        background-image: url("/Assets/images/banner-4.jpg");
     }
     100% {
-        background-image: url("Assets/images/banner-5.jpg");
+        background-image: url("/Assets/images/banner-5.jpg");
     }
 }
 @media(max-width:992px)
